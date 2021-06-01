@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Resume
+title: Education
 subtitle: subtitle
 ---
 
 My name is Ryan Newbury. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- This page is for education details
 
 What else do you need?
 
