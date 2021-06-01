@@ -9,15 +9,13 @@
 title: NEW TITLE OF WEBSITE
 
 # Your name to show in the footer
-author: Some Person
+author: Ryan Newbury
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "aboutme"
+  Education: "Education"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
