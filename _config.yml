@@ -14,8 +14,8 @@ author: Ryan Newbury
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resume: "aboutme"
-  Education: "Education"
+  Resume: "resume"
+  Education: "education"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
