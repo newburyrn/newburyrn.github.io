@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Resume
-subtitle: subtitle
+subtitle: Ryan Newbury
 ---
-
-__Ryan Newbury__
 
 __EDUCATION__
 

@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Emplymeent Details
-subtitle: subtitle
+subtitle: Below Is A List Of My Recent Employeement
 ---
-
-__Below is a list of my recent employeement:__
 
 >__NAVIAR | June 2018 - August 2019__
 >>Two productive and engaging 10-week summer internships with NAVAIR in Lakehurst, NJ. Responsible for supporting and testing numerous projects daily, directly supporting the Navy’s information systems.
