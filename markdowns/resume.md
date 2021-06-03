@@ -4,18 +4,16 @@ title: Resume
 subtitle: subtitle
 ---
 
-![image info](Capture.PNG)
+__Ryan Newbury__
 
-Ryan Newbury
-
-EDUCATION
+__EDUCATION__
 
 Moorestown High School
 2011 – 2015
 
 Bachelor of Science - Computer Science | Rowan University | 2015-2021
 
-EXPERIENCE
+__EXPERIENCE__
 
 * Computer Scientist | Naval Air Systems Command (NAVAIR) | 6/1/2018-8/9/2018 & 6/1/2019-8/8/2019
 Two productive and engaging 10-week summer internships with NAVAIR in Lakehurst, NJ. Responsible for supporting and testing numerous projects directly supporting the Navy’s information systems on aircraft carriers and on land.
@@ -26,14 +24,14 @@ At ESF, it was expected of me to portray the image of the camp day in and day ou
 * Tuxedo Salesman | The Tuxedo Club | SUMMER 2015
 Responsible for sales/rentals of tuxedos for the company as well as conducting fittings for the customers in store for the necessary items for the tuxedo.
 
-SKILLS
+__SKILLS__
 
 * Software Coding: Java, C, Unix, Linux, Python, HTML, CSS
 * Strong Computer/Technology Skill
 * High Level of Mathematics
 * Leadership
 
-ACTIVITIES
+__ACTIVITIES__
 
 * Founding Father of the Phi Kappa Sigma Fraternity Delta Gamma Chapter 
 * Served Two Terms on the Executive Board for the fraternity.
