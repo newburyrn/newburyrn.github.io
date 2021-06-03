@@ -3,6 +3,10 @@ layout: page
 title: Resume
 subtitle: subtitle
 ---
+Here's me trying to embed an image:
+
+![Picture](Capture.png)
+
 
 __Ryan Newbury__
 
