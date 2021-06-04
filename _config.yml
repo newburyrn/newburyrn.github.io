@@ -18,6 +18,7 @@ navbar-links:
   Resume: "markdowns/resume"
   Recent Projects: "markdowns/projects"
   Employment: "markdowns/employment"
+  About: "markdowns/about"
 
 # --- Logo --- #
 
